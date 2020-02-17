@@ -1,5 +1,6 @@
  import React, {Component} from 'react';
  import Node from './Node/Node' 
+ import './PathFindingViz.css'
 
  export default class PathFindingViz extends Component {
      constructor(props){
